@@ -1,0 +1,14 @@
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\evenOdd\obj\Debug\net8.0\evenOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\evenOdd\obj\Debug\net8.0\evenOdd.AssemblyInfoInputs.cache
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\evenOdd\obj\Debug\net8.0\evenOdd.AssemblyInfo.cs
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\evenOdd\obj\Debug\net8.0\evenOdd.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\evenOdd\bin\Debug\net8.0\evenOdd.exe
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\evenOdd\bin\Debug\net8.0\evenOdd.deps.json
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\evenOdd\bin\Debug\net8.0\evenOdd.runtimeconfig.json
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\evenOdd\bin\Debug\net8.0\evenOdd.dll
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\evenOdd\bin\Debug\net8.0\evenOdd.pdb
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\evenOdd\obj\Debug\net8.0\evenOdd.dll
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\evenOdd\obj\Debug\net8.0\refint\evenOdd.dll
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\evenOdd\obj\Debug\net8.0\evenOdd.pdb
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\evenOdd\obj\Debug\net8.0\evenOdd.genruntimeconfig.cache
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\evenOdd\obj\Debug\net8.0\ref\evenOdd.dll
